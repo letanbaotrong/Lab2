@@ -1,5 +1,3 @@
-# DapperApi
-
 ## Project Structure
 
 ```txt
