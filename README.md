@@ -1,26 +1,5 @@
 # DapperApi
 
-ASP.NET Core Web API using Dapper Micro ORM and SQL Server.
-
-This project includes the basic lab requirements and the advanced exercises:
-
-- CRUD Students
-- Repository Pattern
-- Dapper with SQL Server
-- Swagger UI
-- Add Email field
-- Search students by name
-- Many-to-many Students - Courses with JOIN and Dapper multi-mapping
-
-## Technologies
-
-- .NET 8
-- ASP.NET Core Web API
-- Dapper
-- Microsoft.Data.SqlClient
-- SQL Server
-- Swagger / Swashbuckle
-
 ## Project Structure
 
 ```txt
